@@ -1,0 +1,11 @@
+Hung,105,19
+HUNGNAM,110,9
+Vu,115,10
+Minh,135,5
+Nhanh,120,10
+Long,120,7
+Cuong,125,6
+Huy,105,18
+Giang,130,23
+Huy1,115,21
+Hieu,110,24
